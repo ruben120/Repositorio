@@ -1,0 +1,7 @@
+1.-Crea un repositorio
+2.-Agrega  un archivo de texto con el contenido del examen
+3.-Clona el repositorio de tu compañero
+4.-Crea una rama en el repositorio de tu compañero agregando al final tu nombre
+5.-Agrega tu nombre al final del examen en tu repositorio 
+6.-Une las ramas de tus repositorios obteniendo la informacion del repositorio de compañero
+7.-Crea la bitacora que demuestre todo esto
